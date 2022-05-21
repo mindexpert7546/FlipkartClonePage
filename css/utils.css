@@ -1,0 +1,22 @@
+.flex-all-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.my-2{
+  margin: 20px 0;
+
+}
+
+.lines p{
+  text-align: center;
+}
+.my-2{
+  margin: 4px 0;
+}
+
+.colorg{
+  color:green;
+}
